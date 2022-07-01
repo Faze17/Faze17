@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Faizaan
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science, Analysis, and Front-End Web Development
 - 🌱 I’m currently learning Python in Data Analysis
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me.. on GitHub
