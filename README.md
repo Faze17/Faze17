@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Faizaan
-- 👀 I’m interested in Data Science, Analysis, and Front-End Web Development
-- 🌱 I’m currently learning Python in Data Analysis
+- 👀 I’m interested in Full Stack Software Engineering, Data Science, and Bioinformatics
+- 🌱 I’m currently learning Full Stack Software Engineering
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me.. on GitHub
 
